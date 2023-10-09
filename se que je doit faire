@@ -1,0 +1,11 @@
+liste des choses a faire
+
+- lobjectif : crée un gestionair de mot de passe inteligent qui crée stock chiffre les mot de passe pour que l'on puissent ensuite les utiliser ou les reutiliser voila
+
+- generer les mot de passe.
+- ensuite si l'utilisateur click sur ok demander le lien du site et l'email ( car oui on vien stocker le mot de passe histoir que l'utilisateur puissent ensuite le reutiliser.)
+- chiffer le mot de passe avec un code crée pour l'ocasion qui ne va pas etre sur github normal) et ensuite le stoker dans une base de donnée sur le pc de l'utilisateur et toujour chiffrer
+
+- partie crée mdp et stockage fait donc la suite
+
+- 
